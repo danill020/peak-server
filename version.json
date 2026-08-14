@@ -1,0 +1,8 @@
+{
+  "VersionOkay": true, //If edited to false, the game will ask you to update the game, so it's useless
+  "HoursUntilLevel": 1, //Can be edited
+  "MinutesUntilLevel": 00, //Can be edited
+  "SecondsUntilLevel": 00, //Can be edited
+  "LevelIndex": 66, //Can be edited
+  "Message": "Спасибо за игру! By PlesskPixelel" //Can be edited
+}
